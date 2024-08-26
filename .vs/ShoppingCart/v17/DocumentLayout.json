@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ttbTest\\ShoppingCart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79415B26-6D4A-4DC3-84AF-20159100F3CB}|ShoppingCart.csproj|d:\\ttbtest\\shoppingcart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79415B26-6D4A-4DC3-84AF-20159100F3CB}|ShoppingCart.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79415B26-6D4A-4DC3-84AF-20159100F3CB}|ShoppingCart.csproj|d:\\ttbtest\\shoppingcart\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79415B26-6D4A-4DC3-84AF-20159100F3CB}|ShoppingCart.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79415B26-6D4A-4DC3-84AF-20159100F3CB}|ShoppingCart.csproj|d:\\ttbtest\\shoppingcart\\models\\shopping_cartcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79415B26-6D4A-4DC3-84AF-20159100F3CB}|ShoppingCart.csproj|solutionrelative:models\\shopping_cartcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79415B26-6D4A-4DC3-84AF-20159100F3CB}|ShoppingCart.csproj|d:\\ttbtest\\shoppingcart\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79415B26-6D4A-4DC3-84AF-20159100F3CB}|ShoppingCart.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79415B26-6D4A-4DC3-84AF-20159100F3CB}|ShoppingCart.csproj|d:\\ttbtest\\shoppingcart\\function\\getcarts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79415B26-6D4A-4DC3-84AF-20159100F3CB}|ShoppingCart.csproj|solutionrelative:function\\getcarts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79415B26-6D4A-4DC3-84AF-20159100F3CB}|ShoppingCart.csproj|d:\\ttbtest\\shoppingcart\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79415B26-6D4A-4DC3-84AF-20159100F3CB}|ShoppingCart.csproj|solutionrelative:controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79415B26-6D4A-4DC3-84AF-20159100F3CB}|ShoppingCart.csproj|d:\\ttbtest\\shoppingcart\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79415B26-6D4A-4DC3-84AF-20159100F3CB}|ShoppingCart.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79415B26-6D4A-4DC3-84AF-20159100F3CB}|ShoppingCart.csproj|d:\\ttbtest\\shoppingcart\\shoppingcart.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{79415B26-6D4A-4DC3-84AF-20159100F3CB}|ShoppingCart.csproj|solutionrelative:shoppingcart.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79415B26-6D4A-4DC3-84AF-20159100F3CB}|ShoppingCart.csproj|d:\\ttbtest\\shoppingcart\\models\\cartresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79415B26-6D4A-4DC3-84AF-20159100F3CB}|ShoppingCart.csproj|solutionrelative:models\\cartresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ttbTest\\ShoppingCart\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\ttbTest\\ShoppingCart\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T09:29:26.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\ttbTest\\ShoppingCart\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\ttbTest\\ShoppingCart\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T09:27:35.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetCarts.cs",
+              "DocumentMoniker": "D:\\ttbTest\\ShoppingCart\\Function\\GetCarts.cs",
+              "RelativeDocumentMoniker": "Function\\GetCarts.cs",
+              "ToolTip": "D:\\ttbTest\\ShoppingCart\\Function\\GetCarts.cs",
+              "RelativeToolTip": "Function\\GetCarts.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAewHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T04:07:01.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartsController.cs",
+              "DocumentMoniker": "D:\\ttbTest\\ShoppingCart\\Controllers\\CartsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartsController.cs",
+              "ToolTip": "D:\\ttbTest\\ShoppingCart\\Controllers\\CartsController.cs",
+              "RelativeToolTip": "Controllers\\CartsController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAUwCAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T04:05:47.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\ttbTest\\ShoppingCart\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\ttbTest\\ShoppingCart\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T03:55:29.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "shopping_cartContext.cs",
+              "DocumentMoniker": "D:\\ttbTest\\ShoppingCart\\Models\\shopping_cartContext.cs",
+              "RelativeDocumentMoniker": "Models\\shopping_cartContext.cs",
+              "ToolTip": "D:\\ttbTest\\ShoppingCart\\Models\\shopping_cartContext.cs",
+              "RelativeToolTip": "Models\\shopping_cartContext.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwBwAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T03:53:06.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ttbTest\\ShoppingCart\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ttbTest\\ShoppingCart\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T06:54:34.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShoppingCart.http",
+              "DocumentMoniker": "D:\\ttbTest\\ShoppingCart\\ShoppingCart.http",
+              "RelativeDocumentMoniker": "ShoppingCart.http",
+              "ToolTip": "D:\\ttbTest\\ShoppingCart\\ShoppingCart.http",
+              "RelativeToolTip": "ShoppingCart.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-26T06:41:33.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartResponseModel.cs",
+              "DocumentMoniker": "D:\\ttbTest\\ShoppingCart\\Models\\CartResponseModel.cs",
+              "RelativeDocumentMoniker": "Models\\CartResponseModel.cs",
+              "ToolTip": "D:\\ttbTest\\ShoppingCart\\Models\\CartResponseModel.cs",
+              "RelativeToolTip": "Models\\CartResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T08:33:29.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
